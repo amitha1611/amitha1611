@@ -39,6 +39,32 @@ Passionate about Artificial Intelligence, Machine Learning, and building practic
 * Streamlit
 
 ---
+<!-- Futuristic Wave Header -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:2c5364&height=180&section=header&text=Amitha%20Shri%20G.S&fontSize=45&fontColor=00FFFF&animation=fadeIn"/>
+</p>
+
+<h2 align="center">⚡ GitHub Coding Streak ⚡</h2>
+
+<p align="center">
+<i>Consistency builds mastery — one commit at a time</i>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=amitha1611&theme=highcontrast&hide_border=true&background=000000&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"/>
+</p>
+
+<p align="center">
+🚀 Engineering Student | Exploring AI & Machine Learning
+</p>
+
+<!-- Futuristic Wave Footer -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:0f2027,100:000000&height=140&section=footer"/>
+</p>
+
 
 ## 📂 Projects
 
