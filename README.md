@@ -41,7 +41,7 @@ Passionate about Artificial Intelligence, Machine Learning, and building practic
 <!-- Futuristic Header -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1f1c2c&height=160&section=header&text=Amitha%20Shri%20G.S&fontSize=45&fontColor=00FFFF"/>
+<img src="https://raw.githubusercontent.com/amitha1611/amitha1611/output/github-contribution-grid-snake.svg"/>
 </p>
 
 <h2 align="center">🐍 My Contribution Activity</h2>
