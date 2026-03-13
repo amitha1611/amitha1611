@@ -38,31 +38,30 @@ Passionate about Artificial Intelligence, Machine Learning, and building practic
 * Git & GitHub
 * Streamlit
 
----
-<!-- Futuristic Wave Header -->
+<!-- Futuristic Header -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:2c5364&height=180&section=header&text=Amitha%20Shri%20G.S&fontSize=45&fontColor=00FFFF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1f1c2c&height=160&section=header&text=Amitha%20Shri%20G.S&fontSize=45&fontColor=00FFFF"/>
 </p>
 
-<h2 align="center">⚡ GitHub Coding Streak ⚡</h2>
+<h2 align="center">🐍 My Contribution Activity</h2>
 
 <p align="center">
-<i>Consistency builds mastery — one commit at a time</i>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=amitha1611&theme=highcontrast&hide_border=true&background=000000&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"/>
+<i>Watching my commits come to life</i>
 </p>
 
 <p align="center">
-🚀 Engineering Student | Exploring AI & Machine Learning
+<img src="https://raw.githubusercontent.com/amitha1611/amitha1611/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
-<!-- Futuristic Wave Footer -->
+<p align="center">
+⚡ Building something new every day
+</p>
+
+<!-- Footer -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:0f2027,100:000000&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:000000&height=120&section=footer"/>
 </p>
 
 
