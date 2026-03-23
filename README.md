@@ -1,91 +1,45 @@
-<h1 align="center">Hi 👋, I'm Amitha Shri G.S</h1>
+# 👋 Hi, I'm Amitha Shri G S
 
-<h3 align="center">Engineering Student | Aspiring AI & Machine Learning Engineer</h3>
-
-<p align="center">
-Passionate about Artificial Intelligence, Machine Learning, and building practical technology solutions.
-</p>
+🎓 Engineering Student  
+💻 Passionate about Machine Learning, Python, and Web Development  
+🚀 Interested in building real-world AI solutions  
 
 ---
 
-## 🚀 About Me
-
-* 🎓 Engineering student interested in **AI and Machine Learning**
-* 🤖 Currently learning and building **ML projects**
-* 📊 Working on projects like **Customer Churn Prediction**
-* 💡 Interested in solving real-world problems using data
-* 📚 Always learning new technologies and improving coding skills
+## 🛠️ Skills
+- Python
+- Machine Learning
+- Data Analysis
+- Git & GitHub
+- Streamlit
 
 ---
-
-## 🛠️ Skills & Technologies
-
-**Programming**
-
-* Python
-* C Programming
-
-**Machine Learning & Data**
-
-* TensorFlow
-* Scikit-learn
-* Pandas
-
-**Tools**
-
-* Jupyter Notebook
-* Visual Studio Code
-* Git & GitHub
-* Streamlit
-
-<!-- Futuristic Header -->
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/amitha1611/amitha1611/output/github-contribution-grid-snake.svg"/>
-</p>
-
-<h2 align="center">🐍 My Contribution Activity</h2>
-
-<p align="center">
-<i>Watching my commits come to life</i>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/amitha1611/amitha1611/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-<p align="center">
-⚡ Building something new every day
-</p>
-
-<!-- Footer -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:000000&height=120&section=footer"/>
-</p>
-
 
 ## 📂 Projects
 
-**Customer Churn Prediction**
+### 🔹 Customer Churn Prediction
 A machine learning project that predicts whether a customer will leave a service using data analysis and classification models.
 
-More projects coming soon!
+### 🔹 Certificate Management System
+A system designed to manage and verify certificates efficiently with proper storage and retrieval features.
+
+### 🔹 Genetic Disease Prediction
+A predictive model that analyzes medical data to identify the possibility of genetic diseases using machine learning techniques.
+
+### 🔹 Plant Disease Detection
+An AI-based project that detects plant diseases using image processing and deep learning techniques.
 
 ---
 
-## 🌱 Currently Learning
-
-* Advanced Machine Learning concepts
-* Deploying ML apps using **Streamlit**
-* Improving problem-solving skills
-
----
-
-## 📫 Connect With Me
-
-GitHub: https://github.com/amitha1611
+## 📚 Currently Learning
+- Deep Learning
+- Advanced Machine Learning
+- Model Deployment (Streamlit)
 
 ---
 
-⭐ Always curious to learn, build, and grow in the world of technology.
+## 📫 Connect with Me
+- GitHub: https://github.com/amitha1611
+
+---
+✨ Always eager to learn and build new projects!
